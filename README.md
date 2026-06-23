@@ -1,11 +1,14 @@
 # HR-Analytics-Dashboard
 
 Human Resources Analytics Dashboard
-Data yang disajikan meliputi beberapa kolom yang dibutuhkan untuk menganalisis sumber daya manusia dalam lingkup tenaga kerja pada 1418 pekerja. 
 
-Dalam hal ini saya melakukan pekerjaan ulang dari channel youtube : https://www.youtube.com/watch?v=QcTeeBrL6EY 
-dan memberikan analisis pribadi. Data dashboard bisa diakses melalui link berikut : https://acesse.one/1hv25hf 
+The data presented includes several columns needed to analyze human resources within the workforce of 1,418 employees.
 
-Analisis data karyawan dilakukan untuk memahami tren tenaga kerja, pola pengunduran diri, distribusi gaji, kepuasan kerja, kinerja departemen, analisis gender, distribusi kelompok usia, dan wawasan pengunduran diri berdasarkan pengalaman.
+I recreate dashboard from youtoube and give my own version, you can see from this link :
+https://www.youtube.com/watch?v=QcTeeBrL6EY 
 
-Hasil dashboard : https://github.com/husnasavira/HR-Analytics-Dashboard/blob/main/Screenshot%202026-06-23%20124537.png 
+The dashboard data can be accessed through the following link: https://acesse.one/1hv25hf
+
+Employee data analysis was conducted to understand workforce trends, resignation patterns, salary distribution, job satisfaction, department performance, gender analysis, age group distribution, and experience-based resignation insights.
+
+dashboard screenshoot : https://github.com/husnasavira/HR-Analytics-Dashboard/blob/main/Screenshot%202026-06-23%20124537.png 
