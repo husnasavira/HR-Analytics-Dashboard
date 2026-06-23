@@ -1,4 +1,5 @@
 # HR-Analytics-Dashboard
+
 Human Resources Analytics Dashboard
 Data yang disajikan meliputi beberapa kolom yang dibutuhkan untuk menganalisis sumber daya manusia dalam lingkup tenaga kerja pada 1418 pekerja. 
 
